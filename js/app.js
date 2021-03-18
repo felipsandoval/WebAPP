@@ -13,7 +13,6 @@ function showSlides() {
               console.log(i)
        }
        slideIndex++;
-       console.log("SlideIndex= " + i)
        if(slideIndex > slides.length) {
               slideIndex = 1
        }
