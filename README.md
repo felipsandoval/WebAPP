@@ -1,1 +1,3 @@
-# Web Slide APP for internal display purposes
+# TriplePlay Web slideshow APP
+
+Requested by the client for internal deployment
